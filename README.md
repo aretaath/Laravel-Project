@@ -8,6 +8,7 @@ This project is a web application utilizing Blade templates and Blade components
 
 1. [Dashboard](#Dashboard)
 2. [Latest](#Latest)
+   - [Single Post](#Single-post)
 3. [About](#About)
    - [Leadership](#Leadership)
 4. [Contact](#Contact)
@@ -30,10 +31,17 @@ The Dashboard is the main landing page for users after logging in. It provides a
 
 ### 2. **Latest**
 
-![latest](https://github.com/user-attachments/assets/956a8d35-5414-451e-9183-463111a2e9b5)
+![Latest (1)](https://github.com/user-attachments/assets/0087845a-4a70-4b5b-9c3d-9c8226d01306)
 
-The Latest page displays the most recent updates, news, or content relevant to the user. This page is frequently updated to ensure users have access to the latest information and developments within the application. (_On Progress_)
+The Latest page showcases the most recent updates, news, and content relevant to the user. This page is regularly updated to ensure that users have access to the latest information and developments within the application. When users click "Read More," they will be directed to a single post that displays the full content. (_On Progress_)
 
+**Subpages:**
+
+- **Single Post**
+
+  ![Single Post](https://github.com/user-attachments/assets/22a19e8a-456e-4686-8388-b69080a20078)
+
+  The Single Post page provides a detailed view of a specific update, news item, or relevant content selected by the user. This page displays the complete content, including images or other media. Users can easily navigate back to the Latest page or explore other posts for additional information. (_On Progress_)
 
 ---
 
@@ -50,7 +58,7 @@ The About page provides information about the application, including its purpose
 
   ![leadership](https://github.com/user-attachments/assets/d2b0f23b-a63e-4b13-8e06-cd71c6ea4b03)
 
-  The Leadership page highlights key members of the leadership team. This page includes their names, positions, and photos, providing users with an overview of the individuals who guide the direction of the project.
+  The Leadership page highlights key members of the leadership team. This page includes their names, positions, and photos, providing users with an overview of the individuals who guide the direction of the project. (_On Progress_)
 
 ---
 
@@ -81,9 +89,6 @@ The Settings page provides users with options to customize their experience and 
 **Sign Out**
 
 The Sign Out option allows users to securely log out of their account. This is typically found in a dropdown menu or as a prominent button to ensure users can exit their session safely. (_On Progress_)
-
-
----
 
 ---
 
