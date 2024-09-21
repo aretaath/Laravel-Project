@@ -9,11 +9,7 @@
             <div class="ml-10 flex items-baseline space-x-4">
               <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
               <x-nav-link href="/" :active="request()->is('/')">Dashboard</x-nav-link>
-<<<<<<< HEAD
               <x-nav-link href="/posts" :active="request()->is('posts')">Latest</x-nav-link>
-=======
-              <x-nav-link href="/latest" :active="request()->is('latest')">Latest</x-nav-link>
->>>>>>> 0e6a8043923a592997e1441b26d73f89cf505de1
               <x-dropdown title="About" :active="request()->is('about')">  
                 <a href="/about" class="block px-4 py-2 text-sm text-gray-700">Discover Who We Are</a>  
                 <a href="/about/leadership" class="block px-4 py-2 text-sm text-gray-700">Leadership Team</a>  
