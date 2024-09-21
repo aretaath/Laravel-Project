@@ -18,4 +18,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+<<<<<<< HEAD
 /.zed
+=======
+>>>>>>> 0e6a8043923a592997e1441b26d73f89cf505de1
