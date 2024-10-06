@@ -31,15 +31,15 @@ The Dashboard is the main landing page for users after logging in. It provides a
 
 ### 2. **Latest**
 
-![Latest (2)](https://github.com/user-attachments/assets/20a17227-3428-4631-a811-cac9984a3a1a)
+![latest (3)](https://github.com/user-attachments/assets/12234672-ffdb-4b7a-b4ba-b7896220823d)
 
-The Latest page showcases the most recent updates, news, and content relevant to the user. This page is regularly updated to ensure that users have access to the latest information and developments within the application. When users click "Read More," they will be directed to a single post that displays the full content. (_On Progress_)
+The Latest page showcases the most recent updates, news, and content relevant to the user. To enhance user experience, the Latest page features pagination, allowing users to easily navigate through multiple updates without overwhelming them with too much information at once. When users click "Read More," they will be directed to a single post that displays the full content. (_On Progress_)
 
 **Subpages:**
 
 - **Single Post**
 
-  ![Single post (2)](https://github.com/user-attachments/assets/c2a8721a-8724-4d59-bed6-0a2f81ab1b61)
+  ![single post (3)](https://github.com/user-attachments/assets/cf2226b0-a79e-4e17-b67c-b7a51f6d63d3)
 
   The Single Post page provides a detailed view of a specific update, news item, or relevant content selected by the user. This page displays the complete content, including images or other media. Users can easily navigate back to the Latest page or explore other posts for additional information.
 
