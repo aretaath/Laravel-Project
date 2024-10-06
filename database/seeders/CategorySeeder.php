@@ -15,32 +15,38 @@ class CategorySeeder extends Seeder
     {
         Category::create([
             'name' => 'News',
-            'slug' => 'news'
+            'slug' => 'news',
+            'color' => 'red'
         ]);
 
         Category::create([
             'name' => 'Events',
-            'slug' => 'event'
+            'slug' => 'event',
+            'color' => 'blue'
         ]);
 
         Category::create([
             'name' => 'Education',
-            'slug' => 'education'
+            'slug' => 'education',
+            'color' => 'green'
         ]);
 
         Category::create([
             'name' => 'Campaigns',
-            'slug' => 'campaigns'
+            'slug' => 'campaigns',
+            'color' => 'yellow'
         ]);
 
         Category::create([
             'name' => 'Testimonials',
-            'slug' => 'testimonials'
+            'slug' => 'testimonials',
+            'color' => 'gray'
         ]);
 
         Category::create([
             'name' => 'Collaboration',
-            'slug' => 'colaboration'
+            'slug' => 'colaboration',
+            'color' => 'purple'
         ]);
     }
 }
